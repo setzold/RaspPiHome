@@ -1,0 +1,3 @@
+Build with: gcc -o rfm12b_receive  rfm12breceive.c hexconverter.c crccheck.c -lbcm2835 -I/usr/include/python2.7 -Wall -lpython2.7
+
+
